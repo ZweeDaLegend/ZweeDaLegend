@@ -1,18 +1,18 @@
-Hello!
+## Hello!
 
 I'm a programmer and I play a lot of games
 
-Languages I use:
+### Languages I use:
 - Java
 - C#
 - JavaScript
 - Python
 
-Games I play:
-Overwatch
-CSGO
-Modded MC
-Lost Ark
+### Games I play:<br>
+Overwatch <br>
+CSGO<br>
+Modded MC<br>
+Lost Ark<br>
 OSU
 
 Reach me at <br>
