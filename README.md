@@ -8,6 +8,12 @@ I'm a programmer and I play a lot of games
 - JavaScript
 - Python
 
+#### I've also worked with
+ - Blazor
+ - SQL
+ - MySQL
+ - Firebase
+
 ### Games I play:<br>
 Overwatch <br>
 CSGO<br>
