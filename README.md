@@ -1,6 +1,6 @@
-## Hello!
+## Greetings!
 
-I'm a programmer and I play a lot of games
+My favorite things to do are coding and playing games
 
 ### Languages I use:
 - Java
