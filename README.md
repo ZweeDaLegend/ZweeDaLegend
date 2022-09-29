@@ -19,8 +19,7 @@ Overwatch <br>
 CSGO<br>
 Modded MC<br>
 Lost Ark<br>
-OSU
+Valorant
 
 Reach me at <br>
 Discord: ZweeDaLegend#1677 <br>
-Steam: https://steamcommunity.com/id/ZweeDaLegend/
