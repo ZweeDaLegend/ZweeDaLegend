@@ -8,18 +8,14 @@ My favorite things to do are coding and playing games
 - JavaScript
 - Python
 
-#### I've also worked with
+#### I have worked with
+ - Spigot
+ - Node.js
+ - Firebase
+ - Unity
+ - MySQL
  - Blazor
  - SQL
- - MySQL
- - Firebase
-
-### Games I play:<br>
-Overwatch <br>
-CSGO<br>
-Modded MC<br>
-Lost Ark<br>
-Valorant
-
+ 
 Reach me at <br>
 Discord: ZweeDaLegend#1677 <br>
